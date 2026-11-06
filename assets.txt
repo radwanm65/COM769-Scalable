@@ -1,0 +1,20 @@
+INSERT INTO AssetTracking (
+    Assetlabel,
+    Cost,
+    AssetType,
+    NameOfOwner,
+    AddressLine1,
+    AddressLine2,
+    Note
+)
+VALUES (
+    'Terrance and Philip defend Canada',
+    69,
+    'Painting',
+    'Trey Parker',
+    '1600 Pennsylvania Avenue',
+    'Washington',
+    'Loaned from Trey to yer man from the telly'
+);
+
+ 
